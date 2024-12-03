@@ -1,0 +1,9 @@
+timer.c:22:6:setTimer0	16	static
+timer.c:26:6:setTimer1	16	static
+timer.c:30:6:setTimer2	16	static
+timer.c:34:6:setTimer3	16	static
+timer.c:39:6:timer_run	4	static
+timer.c:61:5:getFlag0	4	static
+timer.c:62:5:getFlag1	4	static
+timer.c:63:5:getFlag2	4	static
+timer.c:64:5:getFlag3	4	static
